@@ -23,3 +23,13 @@ Rakenduse puhul peavad olema täidetud vähemalt järgmised nõuded:
   * saab kasutada "add to Home screen" funktsionaalsust.
 
 Rakenduses võib kasutada teiste autorite koodi, kuid enda panus peab olema natuke enamat kui võrguta olekus töötamine. 
+
+
+Ekraanitõmmis: https://gyazo.com/f4e0d7dabcfb0c757d21c42f89ba093b
+Autor: Martin Jagodin
+
+Rakenduse kirjeldus: 
+	Otsustasin enda jaoks teha portfooliot, lähiajal täiendan seda nii palju, et lisan mõned pildid endast ning kindlasti teen ka
+eesti keelse versiooni lehest.
+Lehel saab saata mulle ka e-maili läbi formspree.io 
+Lisatud ka add to Home screen button.
